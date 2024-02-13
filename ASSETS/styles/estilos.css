@@ -1,0 +1,24 @@
+.fondo{
+    background-image: url("../img/fondo4.jpeg");
+    padding: 15%;
+    background-attachment: fixed ;
+ }
+ .letra{
+    color:blue;
+    font-size: 50px;
+    font-weight: bolder;
+ }
+ a{
+    text-decoration: none;
+ }
+
+ .fondoexperiencia{
+    background-image: url("../img/fondoreserva.jpg");
+    padding: 25%;
+    background-attachment: fixed;
+    position: relative;
+    z-index: 1;
+ }
+ .body {
+    font-family: "Arial", sans-serif;
+}
