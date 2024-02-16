@@ -1,24 +1,28 @@
-.fondo{
-    background-image: url("../img/fondo4.jpeg");
-    padding: 15%;
-    background-attachment: fixed ;
- }
- .letra{
-    color:blue;
-    font-size: 50px;
-    font-weight: bolder;
- }
- a{
-    text-decoration: none;
- }
 
- .fondoexperiencia{
-    background-image: url("../img/fondoreserva.jpg");
-    padding: 25%;
-    background-attachment: fixed;
-    position: relative;
-    z-index: 1;
- }
- .body {
-    font-family: "Arial", sans-serif;
+
+.fondoBanner{
+   background-color: black;
+  
 }
+
+.navbar {
+   display: flex;
+   justify-content:space-between;
+}
+
+.brand span {
+   color:green;
+
+
+}
+
+.menu a {
+   color: #fff;
+}
+
+.banner{
+   background-image: url("../img/banner.jpg");
+   padding: 25%;
+   background-attachment: fixed;
+}
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
